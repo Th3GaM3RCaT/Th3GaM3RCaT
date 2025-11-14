@@ -12,7 +12,7 @@ Mi enfoque es práctico y constante: prefiero la corrección y la simplicidad an
 
 ## Habilidades y tecnologías
 
-[A continuación las tecnologías principales que uso — badges pequeños y redondeados enlazan a páginas oficiales o documentación.](#)
+[A continuación las tecnologías principales que uso.](#)
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white&logoWidth=20&scale=1)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoWidth=20&scale=1)](https://docs.microsoft.com/dotnet/csharp/)
