@@ -1,6 +1,6 @@
 # Th3GaM3RCaT
 
-Español: see the Spanish version — [README.es.md](README.es.md)
+Español: ver la versión en Español — [README.es.md](README.es.md)
 
 A computer science student focused on backend systems, databases and electronics. I treat programming and technology as a hobby — a place to experiment, learn and solve practical problems. I also enjoy retro gaming in my free time, though I keep that as a casual interest.
 
@@ -25,7 +25,7 @@ Below are the main technologies I use — small rounded badges link to official 
 
 Interests: backend systems, databases, electronics, automation.
 
-## GitHub stats (small)
+## GitHub stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3GaM3RCaT&show_icons=true&theme=dark&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3GaM3RCaT&layout=compact&theme=dark&hide_border=true)
