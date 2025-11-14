@@ -34,9 +34,9 @@ Interests: backend systems, databases, electronics, automation.
 
 Buttons below make contact and social links easy to spot.
 
-[![Discord](https://img.shields.io/badge/Discord-th3_gam3rcat-5865F2?style=flat&logo=discord&logoColor=white&logoWidth=20&scale=1)](https://discord.com/users/th3_gam3rcat)
+[![Discord](https://img.shields.io/badge/Discord-Th3__GaM3RCaT-5865F2?style=flat&logo=discord&logoColor=white&logoWidth=20&scale=1)](https://discord.com/users/th3_gam3rcat)
 [![Email](https://img.shields.io/badge/Email-rodrigochanqueyo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&logoWidth=20&scale=1)](mailto:rodrigochanqueyo@gmail.com)
-[![Steam](https://img.shields.io/badge/Steam-Th3_GaM3RCaT-171A21?style=flat&logo=steam&logoColor=white&logoWidth=20&scale=1)](https://steamcommunity.com/id/th3_cat)
+[![Steam](https://img.shields.io/badge/Steam-Th3__GaM3RCaT-171A21?style=flat&logo=steam&logoColor=white&logoWidth=20&scale=1)](https://steamcommunity.com/id/th3_cat)
 
 If you want to collaborate, discuss backend topics, or ask about database experiments — send a message. I’m open to internships, project collaborations and short consulting on database design and system reliability.
 ---
