@@ -13,7 +13,7 @@ My approach is practical and steady: I prefer correctness and simplicity over fl
 ## Skills & Tech
 
 
-Below are the main technologies I use — small rounded badges link to official pages or documentation.
+Below are the main technologies I use.
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white&logoWidth=20&scale=1)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoWidth=20&scale=1)](https://docs.microsoft.com/dotnet/csharp/)
