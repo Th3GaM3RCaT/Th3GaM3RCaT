@@ -28,7 +28,7 @@ Intereses: sistemas backend, bases de datos, electrónica y automatización.
 
 Los proyectos están en sus respectivos repositorios; si quieres ver ejemplos concretos (servicios backend, experimentos con bases de datos o prototipos de hardware), dime qué área te interesa y compartiré repos o demos breves.
 
-## Estadísticas de GitHub (pequeñas)
+## Estadísticas de GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3GaM3RCaT&show_icons=true&theme=dark&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3GaM3RCaT&layout=compact&theme=dark&hide_border=true)
@@ -37,9 +37,9 @@ Los proyectos están en sus respectivos repositorios; si quieres ver ejemplos co
 
 Los botones abajo facilitan ver los enlaces de contacto y redes.
 
-[![Discord](https://img.shields.io/badge/Discord-th3_gam3rcat-5865F2?style=flat&logo=discord&logoColor=white&logoWidth=20&scale=1)](https://discord.com/users/th3_gam3rcat)
+[![Discord](https://img.shields.io/badge/Discord-Th3__GaM3RCaT-5865F2?style=flat&logo=discord&logoColor=white&logoWidth=20&scale=1)](https://discord.com/users/th3_gam3rcat)
 [![Email](https://img.shields.io/badge/Email-rodrigochanqueyo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&logoWidth=20&scale=1)](mailto:rodrigochanqueyo@gmail.com)
-[![Steam](https://img.shields.io/badge/Steam-Th3_GaM3RCaT-171A21?style=flat&logo=steam&logoColor=white&logoWidth=20&scale=1)](https://steamcommunity.com/id/th3_cat)
+[![Steam](https://img.shields.io/badge/Steam-Th3__GaM3RCaT-171A21?style=flat&logo=steam&logoColor=white&logoWidth=20&scale=1)](https://steamcommunity.com/id/th3_cat)
 
 Si quieres colaborar, discutir temas de backend o preguntar sobre experimentos con bases de datos, envía un mensaje. Estoy abierto a prácticas, colaboraciones en proyectos y consultorías breves en diseño de bases de datos y fiabilidad de sistemas.
 
