@@ -27,8 +27,8 @@ Interests: backend systems, databases, electronics, automation.
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3GaM3RCaT&show_icons=true&theme=dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3GaM3RCaT&layout=compact&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3GaM3RCaT&theme=dark&hide_border=true&hide=contribs,issues)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3GaM3RCaT&layout=compact&theme=dark&hide_border=true&card_width=550)
 
 ## Contact
 
