@@ -10,7 +10,7 @@ I am a student who prefers working on backend, data and low-level systems. I enj
 
 My approach is practical and steady: I prefer correctness and simplicity over flashy solutions. Programming is a hobby first; I treat projects as a way to learn and to keep skills sharp.
 
-## Skills & Techa
+## Skills & Tech
 
 
 Below are the main technologies I use.
